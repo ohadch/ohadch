@@ -24,6 +24,8 @@ I am highly experienced with server side development, including integrations bet
 
 💁‍ I cherish open communication and respect. I believe that by communicating challanges, planning ahead and openly debriefing failures we can improve ourselves for the future.
 
+✅ I ocassionaly answer questions on StackOverflow: https://stackoverflow.com/users/6361466/ohad-chaet
+
 📫 How to reach me: ohadch9518@gmail.com
 
 ✈️ Fun fact: I am a private pilot flying different aircraft types and towing gliders in my gliding club.
