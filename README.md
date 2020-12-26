@@ -16,7 +16,7 @@ I am highly experienced with server side development, including integrations bet
 - Development of financial applications with Authorize.net and Plaid
 - GCP as the go-to cloud provider
 
-💼 I worked before as a fullstack developer at DeepCoding for two years.
+💼 I worked as a fullstack developer at DeepCoding for two years.
 
 🌹 I voluntarily developed a realtime management system for my gliding club. 
 
