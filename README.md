@@ -18,13 +18,13 @@ I am highly experienced with server side development, including integrations bet
 
 🌹 I voluntarily developed a realtime management system for my gliding club. 
 
+✅ I ocassionaly answer questions on StackOverflow: https://stackoverflow.com/users/6361466/ohad-chaet
+
 🌱 I would like to sharpen my devops skills, mainly kubernetes.
 
 💬 Ask me about development in startup environment, R&D project management and writing clean and readable code.
 
 💁‍ I cherish open communication and respect. I believe that by communicating challanges, planning ahead and openly debriefing failures we can improve ourselves for the future.
-
-✅ I ocassionaly answer questions on StackOverflow: https://stackoverflow.com/users/6361466/ohad-chaet
 
 📫 How to reach me: ohadch9518@gmail.com
 
