@@ -12,6 +12,9 @@ I am highly experienced in server side development, including integrations betwe
 - GCP as the go-to cloud provider
 
 🌱 I would like to sharpen my devops skills, mainly kubernetes.
+
 💬 Ask me about development in startup environment, and how to write clean and readable code.
+
 📫 How to reach me: ohadch9518@gmail.com
+
 ⚡ Fun fact: I am a private pilot flying different aircraft types and towing gliders in my gliding club.
