@@ -1,16 +1,17 @@
-### Hi there 👋
+### I am Ohad Chaet, and I am an experienced Full Stack Developer
 
-<!--
-**ohadch/ohadch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working as a full stack developer at Salaryo.
+I am highly experienced in server side development, including integrations between large scale systems and data driven development.
 
-Here are some ideas to get you started:
+🔨 My skillset includes vast experience with the following tools:
+- Server side development with node.js using Javascript and Typescript
+- Python development with pandas, numpy, airflow, flask and django
+- Relational databases: Postgres and SQLServer, highly experieced with SQL
+- noSQL databases: mongo and firestore
+- docker, linux and bash
+- GCP as the go-to cloud provider
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I would like to sharpen my devops skills, mainly kubernetes.
+💬 Ask me about development in startup environment, and how to write clean and readable code.
+📫 How to reach me: ohadch9518@gmail.com
+⚡ Fun fact: I am a private pilot flying different aircraft types and towing gliders in my gliding club.
