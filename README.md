@@ -1,10 +1,11 @@
-### I am Ohad Chaet, and I am an experienced Full Stack Developer
+### I am Ohad Chaet, and I am an experienced Full Stack Developer.
 
 🔭 I am currently working as a full stack developer at Salaryo.
 
-I am highly experienced in server side development, including integrations between large scale systems and data driven development.
+I am highly experienced with server side development, including integrations between medium/large scale systems and data driven development.
 
 🔨 My skillset includes vast experience with the following tools:
+
 - Server side development with node.js using Javascript and Typescript
 - Python development with pandas, numpy, airflow, flask and django
 - Relational databases: Postgres and SQLServer, highly experieced with SQL
@@ -12,7 +13,7 @@ I am highly experienced in server side development, including integrations betwe
 - docker, linux and bash
 - GCP as the go-to cloud provider
 
-💼 I worked before as a fullstack developer at DeepCoding.
+💼 I worked before as a fullstack developer at DeepCoding for two years.
 
 🌹 I voluntarily developed a realtime management system for my gliding club. 
 
