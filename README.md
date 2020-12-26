@@ -19,7 +19,7 @@ I am highly experienced with server side development, including integrations bet
 
 🌱 I would like to sharpen my devops skills, mainly kubernetes.
 
-💬 Ask me about development in startup environment, R&D project management, and writing clean and readable code.
+💬 Ask me about development in startup environment, R&D project management and writing clean and readable code.
 
 💁‍ I cherish open communication and respect. I believe that by communicating challanges, planning ahead and openly debriefing failures we can improve ourselves for the future.
 
