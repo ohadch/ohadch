@@ -12,8 +12,9 @@ I am highly experienced with server side development, including integrations bet
 - noSQL databases: Mongo and Firestore
 - Docker, Linux and Bash
 - Serverless development with Firebase
-- GCP as the go-to cloud provider
+- Real time development using webhooks and cloud events
 - Development of financial applications with Authorize.net and Plaid
+- GCP as the go-to cloud provider
 
 💼 I worked before as a fullstack developer at DeepCoding for two years.
 
