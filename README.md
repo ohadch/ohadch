@@ -1,4 +1,4 @@
-### I am Ohad Chaet, and I am an experienced Full Stack Developer.
+### 👋 I am Ohad Chaet, and I am an experienced Full Stack Developer.
 
 🔭 I am currently working as a full stack developer at Salaryo.
 
