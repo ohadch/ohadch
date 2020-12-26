@@ -9,9 +9,10 @@ I am highly experienced with server side development, including integrations bet
 - Server side development with node.js using Javascript and Typescript
 - Python development with pandas, numpy, airflow, flask and django
 - Relational databases: Postgres and SQLServer, highly experieced with SQL
-- noSQL databases: mongo and firestore
-- docker, linux and bash
+- noSQL databases: Mongo and Firestore
+- Docker, Linux and Bash
 - GCP as the go-to cloud provider
+- In depth knowledge and experience with Firebase
 
 💼 I worked before as a fullstack developer at DeepCoding for two years.
 
