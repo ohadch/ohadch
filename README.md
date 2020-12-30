@@ -9,7 +9,7 @@ I am highly experienced with server side development, including integrations bet
 - Server side development with node.js using Javascript and Typescript
 - Python development with pandas, numpy, airflow, flask and django
 - Frontend development with React and Vue
-- Relational databases: Postgres and SQLServer, highly experieced with SQL
+- Relational databases: Postgres and SQLServer, highly experienced with SQL
 - noSQL databases: Mongo and Firestore
 - Docker, Linux and Bash
 - Serverless development with Firebase
