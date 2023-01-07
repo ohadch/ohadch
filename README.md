@@ -4,26 +4,20 @@
 
 I am highly experienced with server side development, including integrations between medium/large scale systems and data driven development.
 
-🔨 My skillset includes vast experience with the following tools:
+🔨 My skillset includes experience with the following areas:
 
-- Server side development with node.js using Javascript and Typescript
-- Python development with pandas, numpy, airflow, flask and django
-- Frontend development with React and Vue
-- Relational databases: Postgres and SQLServer, highly experienced with SQL
-- noSQL databases: Mongo and Firestore
-- Docker, Linux and Bash
-- Serverless development with Firebase
-- Real time development using webhooks and cloud events
-- Development of financial applications with Authorize.net and Plaid
-- GCP as the go-to cloud provider
+- Vast experience with Typescript and Python
+- Data engineering - building and monitoring data pipelines
+- Frontend development with React, Vue and Angular
+- Relational and noSql databases
+- Docker and Kubernetes
+- AWS and GCP
 
-💼 I worked as a fullstack developer at DeepCoding for two years.
+💼 I more than five years of hands on experience building b2b data-driven applications.
 
 🌹 I voluntarily developed a realtime management system for my gliding club. 
 
 ✅ I ocassionaly answer questions on StackOverflow: https://stackoverflow.com/users/6361466/ohad-chaet
-
-🌱 I would like to sharpen my devops skills, mainly kubernetes.
 
 💬 Ask me about development in startup environment, R&D project management and writing clean and readable code.
 
@@ -31,4 +25,4 @@ I am highly experienced with server side development, including integrations bet
 
 📫 How to reach me: ohadch9518@gmail.com
 
-✈️ Fun fact: I am a private pilot flying different aircraft types and towing gliders in my gliding club.
+✈️ Fun fact: I am a private pilot flying different aircraft types and towing gliders in my gliding clubs.
