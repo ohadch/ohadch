@@ -1,6 +1,6 @@
 ### 👋 I am Ohad Chaet, and I am an experienced Full Stack Developer.
 
-🔭 I am currently working as a full stack developer at Salaryo.
+🔭 I currently work as a backend developer at Lynx.MD.
 
 I am highly experienced with server side development, including integrations between medium/large scale systems and data driven development.
 
@@ -13,7 +13,7 @@ I am highly experienced with server side development, including integrations bet
 - Docker and Kubernetes
 - AWS and GCP
 
-💼 I more than five years of hands on experience building b2b data-driven applications.
+💼 I have more than five years of hands on experience building b2b data-driven applications.
 
 🌹 I voluntarily developed a realtime management system for my gliding club. 
 
