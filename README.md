@@ -1,8 +1,6 @@
-### 👋 I am Ohad Chaet, and I am an experienced Full Stack Developer.
+### 👋 Software Developer, Data Engineer, Pilot and Flight Instructor.
 
-🔭 I currently work as a backend developer at Lynx.MD.
-
-I am highly experienced with server side development, including integrations between medium/large scale systems and data driven development.
+Highly experienced with server side development, integrations between medium/large scale systems, building ETL pipelines and maintaining them.
 
 🔨 My skillset includes experience with the following areas:
 
@@ -14,14 +12,8 @@ I am highly experienced with server side development, including integrations bet
 - AWS and GCP
 
 💼 I have more than five years of hands on experience building b2b data-driven applications.
-
 🌹 I voluntarily developed a realtime management system for my gliding club. 
-
 ✅ I ocassionaly answer questions on StackOverflow: https://stackoverflow.com/users/6361466/ohad-chaet
-
-💬 Ask me about development in startup environment, R&D project management and writing clean and readable code.
-
-💁‍ I cherish open communication and respect. I believe that by communicating challanges, planning ahead and openly debriefing failures we can improve ourselves for the future.
 
 📫 How to reach me: ohadch9518@gmail.com
 
